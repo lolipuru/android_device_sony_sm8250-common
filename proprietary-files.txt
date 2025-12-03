@@ -66,6 +66,12 @@ vendor/lib/rfsa/adsp/libstdc++.so
 system_ext/lib/com.qualcomm.qti.ant@1.0.so
 system_ext/lib64/com.qualcomm.qti.ant@1.0.so
 
+# Audio (3d audio)
+vendor/etc/3da/com.sony.360ra.hrtf13.standard.hki
+vendor/etc/3da/sforce_coef
+vendor/etc/3da/universal32_v2_e.hki2
+vendor/etc/3da/unknown.ba
+
 # Audio Extensions
 vendor/lib/libhdmipassthru.so
 vendor/lib/libsonydseehxwrapper.so
