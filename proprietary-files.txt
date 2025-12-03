@@ -586,8 +586,8 @@ vendor/etc/init/vendor.qti.hardware.capabilityconfigstore@1.0-service.rc
 vendor/lib64/hw/vendor.qti.hardware.capabilityconfigstore@1.0-impl.so
 
 # Display
-vendor/bin/hw/vendor.semc.hardware.display@2.2-service
-vendor/etc/init/vendor.semc.hardware.display@2.2-service.rc
+vendor/bin/hw/vendor.semc.hardware.aidldisplay-service.somc|48e646ecc133693e26d1cba8fdc68f7ad88dc0f7
+vendor/etc/init/vendor.semc.hardware.aidldisplay-somc.rc|e0a22c0ed557187e54875f3dc4fd0e49d825928f
 vendor/lib64/libdpps.so
 
 # Display (HDR)
